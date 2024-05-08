@@ -1,7 +1,9 @@
 # AvatarSoul
 这个文件夹内存放Avatar实现的关键源代码及素材。
 暂不提供部署，仅为学习交流。
+
 MotionGPT: https://github.com/OpenMotionLab/MotionGPT
+
 GPT-SoViT: https://github.com/RVC-Boss/GPT-SoVITS
 ## ChatGPT
 这个文件夹存放着转发Openai接口的程序
